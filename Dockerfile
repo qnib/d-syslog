@@ -1,2 +1,2 @@
 ### QNIBTerminal debian image
-FROM qnib/d-supervisor
+FROM qnib/d-supervisor:squeeze
